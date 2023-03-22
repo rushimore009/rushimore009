@@ -1,4 +1,4 @@
-![logo](https://github.com/rushimore009/rushimore009/blob/main/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+![logo](https://github.com/rushimore009/rushimore009/blob/main/api.gif)
 <h1 align="center">Hi 👋, I'm Rushi More</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
