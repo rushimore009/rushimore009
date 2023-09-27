@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 My current Project on **Drona,civil_arc, Weather_app,Personal_CV**
+- 🔭 My current Project  **Drona,civil_arc, Weather_app,Personal_CV**
 
-- 🌱 I’m currently working on **React js**
+- 🌱 I’m currently working on **React js, Spring Boot, MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rushimore009](https://github.com/rushimore009)
 
-- 💬 Ask me about **react, MySQL, rest API**
+- 💬 Ask me about **react, MySQL, rest API, Spring boot**
 
 - 📫 How to reach me **rushimorerm009@gmail.com**
 
