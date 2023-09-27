@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Drona,civil_arc**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently working on **React js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rushimore009](https://github.com/rushimore009)
 
