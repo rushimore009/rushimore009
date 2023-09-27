@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Drona,civil_arc**
+- 🔭 My current Project on **Drona,civil_arc, Weather_app,Personal_CV**
 
 - 🌱 I’m currently working on **React js**
 
